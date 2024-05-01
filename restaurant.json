@@ -1,0 +1,183 @@
+
+
+{
+    "title": "Green and Gradil",
+    "description": "Hot and creamy burger",
+    "restaurants": [
+      {
+        "name": "Bran B Hols",
+        "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714553302/burger4_vdpvmg.jpg",
+        "description": "Soft and tender burger",
+        "lng": 3.3792,
+        "lat": 6.5244,
+        "address": "434 Second Street",
+        "stars": 4,
+        "reviews": "4.4k",
+        "category": "Fast Food",
+        "dishes": [
+          {
+            "name": "Burger",
+            "description": "Soft and tender burger",
+            "price": 10,
+            "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714553535/burger9_nw0uac.jpg"
+          },
+          {
+            "name": "CheeseBurger",
+            "description": "Slim and Juicy burger",
+            "price": 10,
+            "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714553520/burger8_dect93.jpg"
+          },
+          {
+            "name": "BurgerBlue",
+            "description": "Cracking and Juicy burger",
+            "price": 10,
+            "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714553302/burger4_vdpvmg.jpg"
+          },
+          {
+            "name": "CheeseBurger",
+            "description": "Slim and Juicy burger",
+            "price": 11,
+            "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714553514/burger6_whfkm6.jpg"
+          },
+          {
+            "name": "BurgerBlue",
+            "description": "Cracking and Juicy burger",
+            "price": 15,
+            "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714553513/burger7_r5wo3b.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Garden Store",
+        "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714552915/burger3_blivxs.jpg",
+        "description": "Soft and tender burger",
+        "lng": 3.3791,
+        "lat": 6.5243,
+        "address": "134 First Street",
+        "stars": 4,
+        "reviews": "5.4k",
+        "category": "Fast Food",
+        "dishes": [
+          {
+            "name": "Burger",
+            "description": "Soft and tender burger",
+            "price": 10,
+            "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714553535/burger9_nw0uac.jpg"
+          },
+          {
+            "name": "CheeseBurger",
+            "description": "Slim and Juicy burger",
+            "price": 11,
+            "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714553526/burger10_w8rpcq.jpg"
+          },
+          {
+            "name": "BurgerBlue",
+            "description": "Cracking and Juicy burger",
+            "price": 15,
+            "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714554093/burger11_iy64gt.jpg"
+          },
+          {
+            "name": "CheeseBurger",
+            "description": "Slim and Juicy burger",
+            "price": 11,
+            "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714553535/burger9_nw0uac.jpg"
+          },
+          {
+            "name": "BurgerBlue",
+            "description": "Cracking and Juicy burger",
+            "price": 15,
+            "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714554107/burger14_amoyfu.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Store Burger",
+        "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714553520/burger8_dect93.jpg",
+        "description": "Cheese and fries burger",
+        "lng": 3.3592,
+        "lat": 6.5344,
+        "address": "11 Union Street",
+        "stars": 4,
+        "reviews": "4.4k",
+        "category": "Fast Food",
+        "dishes": [
+          {
+            "name": "Burger",
+            "description": "Soft and tender burger",
+            "price": 15,
+            "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714554120/burger16_gmruch.jpg"
+          },
+          {
+            "name": "CheeseBurger",
+            "description": "Slim and Juicy burger",
+            "price": 30,
+            "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714554120/burger17_zim3pc.jpg"
+          },
+          {
+            "name": "BurgerBlue",
+            "description": "Cracking and Juicy burger",
+            "price": 20,
+            "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714553535/burger9_nw0uac.jpg"
+          },
+          {
+            "name": "CheeseBurger",
+            "description": "Slim and Juicy burger",
+            "price": 11,
+            "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714552915/burger3_blivxs.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Light Jacobs",
+        "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714553513/burger7_r5wo3b.jpg",
+        "description": "Tender burger",
+        "lng": 3.3762,
+        "lat": 6.5245,
+        "address": "23 Second Street",
+        "stars": 4,
+        "reviews": "3.4k",
+        "category": "Fast Food",
+        "dishes": [
+          {
+            "name": "Burger",
+            "description": "Soft and tender burger",
+            "price": 10,
+            "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714553373/burger5_q1guws.jpg"
+          },
+          {
+            "name": "CheeseBurger",
+            "description": "Slim and Juicy burger",
+            "price": 11,
+            "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714553514/burger6_whfkm6.jpg"
+          },
+          {
+            "name": "BurgerBlue",
+            "description": "Cracking and Juicy burger",
+            "price": 15,
+            "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714553513/burger7_r5wo3b.jpg"
+          },
+          {
+            "name": "Burger",
+            "description": "Soft and tender burger",
+            "price": 10,
+            "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714553520/burger8_dect93.jpg"
+          },
+          {
+            "name": "CheeseBurger",
+            "description": "Slim and Juicy burger",
+            "price": 11,
+            "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714553535/burger9_nw0uac.jpg"
+          },
+          {
+            "name": "BurgerBlue",
+            "description": "Cracking and Juicy burger",
+            "price": 15,
+            "image": "https://res.cloudinary.com/dpfu0vwqa/image/upload/v1714553526/burger10_w8rpcq.jpg"
+          }
+        ]
+      }
+      
+    ]
+  }
+  
+  

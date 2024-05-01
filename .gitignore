@@ -1,0 +1,8 @@
+# Ignore environment variables file
+.env
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore a specific JSON file
+restaurants.json
